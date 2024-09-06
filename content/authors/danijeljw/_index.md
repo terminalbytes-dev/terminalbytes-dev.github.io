@@ -1,7 +1,7 @@
 ---
-title: "danijeljw"
+name: "Danijel-James Wynyard"  # Author Name
 bio: "Software Engineer and tech enthusiast."
-avatar: "/images/authors/john-doe.png"
+avatar: "/images/authors/john-doe.png"  # Path to Avatar
 social:
   github: "https://github.com/danijeljw"
   twitter: "https://twitter.com/danijeljw"
