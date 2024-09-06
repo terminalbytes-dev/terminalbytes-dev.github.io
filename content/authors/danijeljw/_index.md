@@ -1,6 +1,9 @@
-name: danijeljw
+---
+title: "danijeljw"
 bio: "Software Engineer and tech enthusiast."
-avatar: "https://pbs.twimg.com/profile_images/1619336204297838593/xicWFpDk_400x400.jpg"
+avatar: "/images/authors/john-doe.png"
 social:
   github: "https://github.com/danijeljw"
   twitter: "https://twitter.com/danijeljw"
+---
+Here is some custom content for my author page.
