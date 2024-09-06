@@ -4,7 +4,7 @@ date: 2024-09-03T10:35:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["sql server", "tls 1.2", "database security", "microsoft sql server 2019", "encryption", "it security", "network configuration", "sql server configuration", "windows server", "data protection", "mssql2019", "mssql"]
-author: danijel
+author: danijeljw
 showToc: true
 TocOpen: false
 draft: false

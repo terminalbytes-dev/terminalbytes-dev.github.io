@@ -4,7 +4,7 @@ date: 2024-09-01T14:47:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: [git", "clear git history", "devops", "git reset", "remove secrets", "git force push", "git orphan branch", "git cleanup", "repository cleanup", "version control"]
-author: danijel
+author: danijeljw
 showToc: true
 TocOpen: false
 draft: false

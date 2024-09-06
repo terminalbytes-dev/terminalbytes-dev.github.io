@@ -1,6 +1,6 @@
 ---
 title: Tomcat Logging
-author: danijel
+author: danijeljw
 date: 2023-05-02 11:00:00 +1000
 categories: [Other]
 tags: [tomcat,logging,logs,log]

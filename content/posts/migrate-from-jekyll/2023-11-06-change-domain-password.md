@@ -1,6 +1,6 @@
 ---
 title: Change AD Domain User Password
-author: danijel
+author: danijeljw
 date: 2023-11-06 11:00:00 +1000
 categories: [Windows]
 tags: [windows,ad,domain,controller,user,account,password,change]

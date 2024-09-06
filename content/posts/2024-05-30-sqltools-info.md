@@ -4,7 +4,7 @@ date: 2024-05-30T11:54:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["sqltools"]
-author: danijel
+author: danijeljw
 showToc: true
 TocOpen: false
 draft: false

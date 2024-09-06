@@ -1,6 +1,6 @@
 ---
 title: Set TLS1.1 and TLS1.2 in PowerShell
-author: danijel
+author: danijeljw
 date: 2023-05-02 11:00:00 +1000
 categories: [Other]
 tags: [powershell]

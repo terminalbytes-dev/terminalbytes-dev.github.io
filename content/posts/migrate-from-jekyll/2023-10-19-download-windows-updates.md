@@ -1,6 +1,6 @@
 ---
 title: Download Windows Updates
-author: danijel
+author: danijeljw
 date: 2023-10-19 11:00:00 +1000
 categories: [PowerShell]
 tags: [powershell,posh,windows,updates]

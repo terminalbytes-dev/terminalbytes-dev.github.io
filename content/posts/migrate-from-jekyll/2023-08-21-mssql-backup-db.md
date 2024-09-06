@@ -1,6 +1,6 @@
 ---
 title: MSSQL Backup Db
-author: danijel
+author: danijeljw
 date: 2023-08-21 11:00:00 +1000
 categories: [SQL,MSSQL]
 tags: [sql,mssql,microsoft]

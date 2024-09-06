@@ -1,6 +1,6 @@
 ---
 title: Oracle SQL Commands
-author: danijel
+author: danijeljw
 date: 2022-12-02 11:00:00 +1000
 categories: [SQL,Oracle]
 tags: [oracle,sql,reference,commands]

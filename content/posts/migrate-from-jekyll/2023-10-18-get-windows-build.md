@@ -1,6 +1,6 @@
 ---
 title: Retrieve Windows OS Build
-author: danijel
+author: danijeljw
 date: 2023-10-18 11:00:00 +1000
 categories: [PowerShell]
 tags: [powershell,posh,windows,updates]

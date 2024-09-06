@@ -1,6 +1,6 @@
 ---
 title: Adjust JVM RAM Settings
-author: danijel
+author: danijeljw
 date: 2023-07-18 11:00:00 +1000
 categories: [Reference]
 tags: [jvm,ram,server,settings]

@@ -4,7 +4,7 @@ date: 2024-08-08T12:24:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["dfs","replication"]
-author: danijel
+author: danijeljw
 showToc: true
 TocOpen: false
 draft: false
