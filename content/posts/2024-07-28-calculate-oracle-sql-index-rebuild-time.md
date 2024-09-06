@@ -4,7 +4,7 @@ date: 2024-07-26T09:51:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["oracle","sql"]
-author: "Me"
+author: danijel
 showToc: true
 TocOpen: false
 draft: false

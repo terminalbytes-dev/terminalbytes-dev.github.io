@@ -4,7 +4,7 @@ date: 2024-09-06T14:11:26+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["email security", "SPF", "DKIM", "DMARC", "MTA-STS", "TLS-RPT", "BIMI", "DNS", "email authentication"]
-author: "Me"
+author: danijel
 showToc: true
 TocOpen: false
 draft: false

@@ -4,7 +4,7 @@ date: 2024-09-03T10:35:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["sql server", "tls 1.2", "database security", "microsoft sql server 2019", "encryption", "it security", "network configuration", "sql server configuration", "windows server", "data protection", "mssql2019", "mssql"]
-author: "Me"
+author: danijel
 showToc: true
 TocOpen: false
 draft: false
@@ -23,9 +23,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: /images/logos/mssql-2019.png # image path/url
-    alt: "<alt text>" # alt text
-    caption: 'MSSQL Logo' # display caption under cover
+    image: /images/logos/microsoft-sql-server-logo.png # image path/url
+    alt: "MSSQL logo" # alt text
+    caption: 'MSSQL logo' # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:

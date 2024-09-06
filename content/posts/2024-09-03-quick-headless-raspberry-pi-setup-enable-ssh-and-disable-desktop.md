@@ -4,7 +4,7 @@ date: 2024-09-03T14:07:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["raspberry pi", "ssh", "headless raspberry pi", "devops", "raspberry pi configuration", "raspberry pi setup", "enable ssh", "remote management", "sd card configuration", "raspberry pi no gui", "raspberry pi cli", "systemd", "cmdline.txt", "linux", "iot", "raspberry pi for devops"]
-author: "Me"
+author: danijel
 showToc: true
 TocOpen: false
 draft: false

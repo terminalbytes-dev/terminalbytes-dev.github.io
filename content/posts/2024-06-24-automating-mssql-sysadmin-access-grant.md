@@ -4,7 +4,7 @@ date: 2024-06-24T11:50:00+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["mssql"]
-author: "Me"
+author: danijel
 showToc: true
 TocOpen: false
 draft: false
