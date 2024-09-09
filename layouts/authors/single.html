@@ -1,0 +1,48 @@
+{{ define "main" }}
+<article class="author-page">
+  <h1>Author Page Section Loaded</h1> <!-- Debug message -->
+
+  <!-- Author Avatar -->
+  {{ if .Params.avatar }}
+  <img src="{{ .Params.avatar }}" alt="{{ .Params.name }}" style="width: 150px; height: 150px; border-radius: 50%;" />
+  {{ else }}
+  <p>No avatar found</p>
+  {{ end }}
+
+  <!-- Author Name -->
+  <h1>{{ .Params.name | default "Unknown Author" }}</h1>
+
+  <!-- Author Bio -->
+  <p>{{ .Params.bio }}</p>
+
+  <!-- Social Links -->
+  <ul>
+    {{ if .Params.social.github }}
+    <li><a href="{{ .Params.social.github }}" target="_blank">GitHub</a></li>
+    {{ end }}
+    {{ if .Params.social.twitter }}
+    <li><a href="{{ .Params.social.twitter }}" target="_blank">Twitter</a></li>
+    {{ end }}
+  </ul>
+
+  <!-- Custom Author Content -->
+  <section>
+    {{ .Content }}
+  </section>
+
+  <!-- List of Posts by the Author -->
+  <section>
+    <h2>Articles by {{ .Params.name }}</h2>
+    <ul>
+      {{ range where .Site.RegularPages "Params.author" .Params.name }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <small>{{ .Date.Format "Jan 2, 2006" }}</small>
+      </li>
+      {{ else }}
+      <p>No articles found for this author.</p>
+      {{ end }}
+    </ul>
+  </section>
+</article>
+{{ end }}
