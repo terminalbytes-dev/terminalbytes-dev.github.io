@@ -13,4 +13,4 @@ layout: "single"
 <br />
 <p>I'm all about enjoying Christmas downunder with a warm festive vibe, though the North Pole is calling my name for a future adventure. My Spanish journey is a bit of a challenge, but I'm tackling it one book at a time.</p>
 <br />
-<p>At home, I'm all about the cozy life—snacking on almonds, soaking up the vibes, and binging Star Trek: TNG on the couch while everyone else sleeps. Follow my adventures on my socials! 🚀🌴🎄🛸</p>
+<p>At home, I'm all about the cozy life - snacking on almonds, soaking up the vibes, and binging Star Trek: TNG on the couch while everyone else sleeps. Follow my adventures on my socials! 🚀🌴🎄🛸</p>
