@@ -3,7 +3,7 @@ title: "Resolving AWS RDS Schema Privilege Issues with DBMS_SCHEDULER"
 date: 2024-09-04T18:12:00+10:00
 # weight: 1
 # aliases: ["/first"]
-tags: tags: ["AWS RDS", "DBMS_SCHEDULER", "ORA-27486", "ORA-00990", "email security", "SPF", "DKIM", "DMARC", "MTA-STS", "TLS-RPT", "BIMI", "DNS", "email authentication"]
+tags: [ "AWS RDS", "DBMS_SCHEDULER", "ORA-27486", "ORA-00990", "email security", "SPF", "DKIM", "DMARC", "MTA-STS", "TLS-RPT", "BIMI", "DNS", "email authentication" ]
 author: danijeljw
 showToc: true
 TocOpen: false
