@@ -1,10 +1,10 @@
 ---
 title: "Understanding Email Security Protocols"
-date: 2024-09-06T14:11:26+10:00
+date: 2024-09-05T14:11:26+10:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["email security", "SPF", "DKIM", "DMARC", "MTA-STS", "TLS-RPT", "BIMI", "DNS", "email authentication"]
-author: danijeljw
+author: "danijeljw"
 showToc: true
 TocOpen: false
 draft: false
@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: static/images/logos/email-security-cover-art.jpg # image path/url
+    image: /images/logos/email-security-cover-art.jpg # image path/url
     alt: "email security" # alt text
     caption: 'email security' # display caption under cover
     relative: false # when using page bundles set this to true

@@ -47,16 +47,16 @@ languages:
       profileMode:
         enabled: true
         title: TerminalBytes.dev
-        imageUrl: "https://octopus.com/devops/i/1000/octopus-devops-infinity.webp"
+        imageUrl: "/images/avatar.png"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
         buttons:
           - name: Blog
             url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+          # - name: Profile Mode
+          #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
   # fr:
   #   languageName: ":fr:"
   #   weight: 2
@@ -126,8 +126,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  description: "Notes you wish you had when you started your DevOps career with"
+  author: danijeljw
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -144,7 +144,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  images: ["images/avatar.png"]
 
   profileMode:
     enabled: false
@@ -171,6 +171,9 @@ params:
   #   - name: Discord
   #     title: Join discord community
   #     url: "https://discord.gg/ahpmTvhVmp"
+    - name: X
+      title: Twitter
+      url: "https://x.com/danijeljw"
   #   - name: X
   #     title: Share PaperMod on X/Twitter
   #     url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
