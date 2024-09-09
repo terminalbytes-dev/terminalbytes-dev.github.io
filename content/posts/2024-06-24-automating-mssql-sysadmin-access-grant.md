@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: /images/logos/microsoft-sql-server-logo-png-transparent.png # image path/url
+    image: /images/logos/microsoft-sql-server-logo.png
     alt: "MSSQL Logo" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true

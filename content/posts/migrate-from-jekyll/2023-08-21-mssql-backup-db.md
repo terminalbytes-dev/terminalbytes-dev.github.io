@@ -6,6 +6,9 @@ categories: [SQL,MSSQL]
 tags: [sql,mssql,microsoft]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/logos/microsoft-sql-server-logo.png
+  caption: 'MSSQL Logo'
 ShowToc: true
 TocOpen: true
 editPost:

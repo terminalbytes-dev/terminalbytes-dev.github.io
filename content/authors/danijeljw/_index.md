@@ -1,10 +1,9 @@
 ---
-name: "Danijel-James Wynyard"
+title: "fish"
 bio: "Software Engineer and tech enthusiast."
-avatar: "/images/authors/danijeljw.png"
+avatar: "/images/authors/john-doe.png"
 social:
   github: "https://github.com/danijeljw"
   twitter: "https://twitter.com/danijeljw"
-layout: "authors/single"
 ---
-I am a passionate engineer with a love for coding and solving complex problems.
+Here is some custom content for my author page.

@@ -6,6 +6,9 @@ categories: [SQL,MSSQL]
 tags: [sql,mssql,microsoft]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/logos/microsoft-sql-server-logo.png
+  caption: 'MSSQL Logo'
 ShowToc: true
 TocOpen: true
 editPost:
@@ -13,6 +16,7 @@ editPost:
     Text: 'Suggest Changes' # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
 ## MSSQL Backup Table
 
 Exporting data from a SQL Server table can be efficiently managed using PowerShell. This guide provides a simple approach to exporting data from a specified table to a CSV file.

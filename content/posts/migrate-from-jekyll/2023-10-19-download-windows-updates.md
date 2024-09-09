@@ -6,6 +6,9 @@ categories: [PowerShell]
 tags: [powershell,posh,windows,updates]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/logos/windows_update_logo.svg
+  caption: 'Windows Updates'
 ShowToc: true
 TocOpen: true
 editPost:

@@ -6,6 +6,9 @@ categories: [Windows]
 tags: [windows,ad,domain,controller,user,account,password,change]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/logos/active_directory_logo.png
+  caption: 'Active Directory logo'
 ShowToc: true
 TocOpen: true
 editPost:

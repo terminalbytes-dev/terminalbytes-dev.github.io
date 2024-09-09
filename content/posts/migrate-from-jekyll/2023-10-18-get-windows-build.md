@@ -6,6 +6,9 @@ categories: [PowerShell]
 tags: [powershell,posh,windows,updates]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/windows-os-build.png
+  caption: 'get windows os build info'
 ShowToc: true
 TocOpen: true
 editPost:

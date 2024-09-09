@@ -6,6 +6,9 @@ categories: [Other]
 tags: [powershell]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/logos/powershell.png
+  caption: 'PowerShell logo'
 ShowToc: true
 TocOpen: true
 editPost:

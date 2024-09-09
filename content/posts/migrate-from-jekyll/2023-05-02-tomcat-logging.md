@@ -6,6 +6,9 @@ categories: [Other]
 tags: [tomcat,logging,logs,log]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/logos/tomcat_logo.png
+  caption: 'Apache Tomcat logo'
 ShowToc: true
 TocOpen: true
 editPost:

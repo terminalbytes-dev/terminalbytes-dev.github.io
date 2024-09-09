@@ -6,6 +6,9 @@ categories: [Reference]
 tags: [jvm,ram,server,settings]
 series: ['Migrated from Jekyll']
 aliases: ['migrate-from-jekyll']
+cover:
+  image: /images/logos/jvm_logo.png
+  caption: 'JVM logo'
 ShowToc: true
 TocOpen: true
 editPost:
