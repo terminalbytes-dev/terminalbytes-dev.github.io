@@ -4,6 +4,10 @@
   {{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}
     {{- (delimit (slice (printf "<a href=\"/authors/%s/\">%s</a>" (lower .) .)) ", ") | safeHTML }}
   {{- else }}
-    <a href="/authors/{{ lower $author }}/">{{ $author }}</a> <!-- Hyperlinked author name -->
+    <a href="/authors/{{ lower $author }}/">{{ $author }}</a>
+    <!-- Remove or conditionally render RSS feed -->
+    {{ if not site.Params.ShowRssButtonInSectionTermList }}
+      <!-- RSS feed icon code here -->
+    {{ end }}
   {{- end }}
 {{- end }}
