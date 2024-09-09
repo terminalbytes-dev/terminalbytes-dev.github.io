@@ -1,15 +1,21 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches:
       - main
     paths-ignore:
-        - "images/**"
-        - "LICENSE"
-        - "README.md"
+      - "images/**"
+      - "LICENSE"
+      - "README.md"
+  pull_request:
+    branches:
+      - main
+    paths-ignore:
+      - "images/**"
+      - "LICENSE"
+      - "README.md"
+
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

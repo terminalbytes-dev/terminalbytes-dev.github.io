@@ -41,11 +41,11 @@ jobs:
           git config credential.helper 'store'
           echo "https://${{ secrets.PAT_TOKEN }}@github.com" > ~/.git-credentials
 
-      - name: Merge dev into main
+      - name: Merge dev into main with conflict resolution
         run: |
           git fetch origin main
           git checkout main
-          git merge origin/dev --no-ff --allow-unrelated-histories -m "Auto-merging dev into main"
+          git merge origin/dev --no-ff --allow-unrelated-histories -X theirs -m "Auto-merging dev into main"
           git push origin main
 
       - name: Install Hugo CLI
