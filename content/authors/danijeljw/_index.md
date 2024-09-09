@@ -1,9 +1,10 @@
 ---
-name: "Danijel-James Wynyard"  # Author Name
+name: "Danijel-James Wynyard"
 bio: "Software Engineer and tech enthusiast."
-avatar: "/images/authors/john-doe.png"  # Path to Avatar
+avatar: "/images/authors/danijeljw.png"
 social:
   github: "https://github.com/danijeljw"
   twitter: "https://twitter.com/danijeljw"
+layout: "authors/single"
 ---
-Here is some custom content for my author page.
+I am a passionate engineer with a love for coding and solving complex problems.

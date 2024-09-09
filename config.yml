@@ -47,16 +47,16 @@ languages:
       profileMode:
         enabled: true
         title: TerminalBytes.dev
-        imageUrl: "https://octopus.com/devops/i/1000/octopus-devops-infinity.webp"
+        imageUrl: "/images/avatar.png"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
         buttons:
           - name: Blog
             url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+          # - name: Profile Mode
+          #   url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
   # fr:
   #   languageName: ":fr:"
   #   weight: 2
@@ -144,7 +144,7 @@ params:
   ShowPageNums: true
   ShowToc: true
   # comments: false
-  images: ["images/papermod-cover.png"]
+  images: ["images/avatar.png"]
 
   profileMode:
     enabled: false
