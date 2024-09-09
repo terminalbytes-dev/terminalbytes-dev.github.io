@@ -22,6 +22,12 @@
             <i class="fab fa-twitter"></i> Twitter
           </a>
         {{ end }}
+
+        {{ with .Params.social.instagram }}
+          <a href="{{ . }}" title="Instagram">
+            <i class="fab fa-instagram"></i> Instagram
+          </a>
+        {{ end }}
       </div>
     </div>
   </div>
