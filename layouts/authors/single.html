@@ -1,0 +1,33 @@
+{{/* DEBUG: Custom layout for author page */}}
+{{ $debug := printf "Current template: %s" .Template.Name }}
+<h1>{{ $debug }}</h1>
+
+
+{{ define "main" }}
+  <div class="breadcrumb">
+    <a href="/">Home</a> > <a href="/authors">Authors</a> > {{ .Title }}
+  </div>
+
+  <div class="author-profile">
+    <img src="{{ .Params.avatar }}" alt="{{ .Title }}">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Params.bio }}</p>
+    <div class="author-socials">
+      {{ with .Params.social.github }}
+        <a href="{{ . }}" title="GitHub">
+          <i class="fab fa-github"></i> GitHub
+        </a>
+      {{ end }}
+
+      {{ with .Params.social.twitter }}
+        <a href="{{ . }}" title="Twitter">
+          <i class="fab fa-twitter"></i> Twitter
+        </a>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+{{ end }}
