@@ -1,12 +1,13 @@
-/* Add this CSS to your stylesheet */
+/* Default styles for light mode */
 .author-socials a {
-    text-decoration: none;
-    color: #333; /* Adjust this color to fit your design */
-    margin-right: 10px;
-  }
-  
+  text-decoration: none;
+  color: #333; /* Dark grey for light mode */
+  margin-right: 10px;
+}
+
 .author-socials a i {
   margin-right: 5px;
+  color: #333; /* Dark grey for icons in light mode */
 }
 
 .author-profile {
@@ -30,16 +31,36 @@
   flex: 1;
 }
 
-.author-socials a {
-  text-decoration: none;
-  color: #333;
-  margin-right: 10px;
-}
-
-.author-socials a i {
-  margin-right: 5px;
-}
-
 .content {
   margin-top: 20px;
+}
+
+/* Dark mode styles for the `dark` class */
+body.dark .author-socials a {
+  color: #fff; /* White for dark mode */
+}
+
+body.dark .author-socials a i {
+  color: #fff; /* White for icons in dark mode */
+}
+
+body.dark .author-details h1,
+body.dark .author-details p {
+  color: #fff; /* White text for dark mode */
+}
+
+/* Optional: Dark mode styles based on system preferences */
+@media (prefers-color-scheme: dark) {
+  .author-socials a {
+    color: #fff; /* White for dark mode */
+  }
+
+  .author-socials a i {
+    color: #fff; /* White for icons in dark mode */
+  }
+
+  .author-details h1,
+  .author-details p {
+    color: #fff; /* White text for dark mode */
+  }
 }
