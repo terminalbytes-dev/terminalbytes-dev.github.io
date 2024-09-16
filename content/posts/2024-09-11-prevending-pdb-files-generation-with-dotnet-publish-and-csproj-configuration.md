@@ -1,5 +1,5 @@
 ---
-title: "Preventing .pdb File Generation with dotnet Publish and CSPROJ Configuration
+title: "Preventing .pdb File Generation with dotnet Publish and CSPROJ Configuration"
 date: 2024-09-11T04:06:00+10:00
 # weight: 1
 # aliases: ["/first"]
