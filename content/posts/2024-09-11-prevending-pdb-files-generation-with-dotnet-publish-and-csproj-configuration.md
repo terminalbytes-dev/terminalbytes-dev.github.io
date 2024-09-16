@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: /images/logos/c_sharp_logo.jpg # image path/url
+    image: /images/logos/c_sharp_logo.png # image path/url
     alt: "c sharp logo" # alt text
     caption: '' # display caption under cover
     relative: false # when using page bundles set this to true
