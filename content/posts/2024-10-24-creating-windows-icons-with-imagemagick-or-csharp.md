@@ -1,6 +1,6 @@
 ---
 title: "Creating Windows Icons with ImageMagick and C#"
-date: 2024-10-25T08:00:00+10:00
+date: 2024-10-24T08:00:00+10:00
 tags: ["ImageMagick", "C#", "Icon Conversion", "Windows Icons", "Image Processing"]
 author: danijeljw
 showToc: true
