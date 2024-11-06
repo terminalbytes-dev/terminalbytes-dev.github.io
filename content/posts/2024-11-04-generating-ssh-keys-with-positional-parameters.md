@@ -21,11 +21,15 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: /images/logos/ssh-keygen.png
-    alt: "SSH Key Generation"
-    caption: ''
-    relative: false
-    hidden: false
+    image: /images/logos/ssh-keygen.jpg # image path/url
+    alt: "SSH Key generation" # alt text
+    caption: '' # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+editPost:
+    URL: "https://github.com/terminalbytes-dev/terminalbytes-dev.github.io/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
 Generating SSH keys is a crucial part of managing secure access, especially for tasks like server administration, CI/CD setups, and automation. Here’s how to create flexible SSH keys using a one-liner that supports user-defined positional parameters, letting you adjust the key type, bit size, file name, and comment on the fly.
