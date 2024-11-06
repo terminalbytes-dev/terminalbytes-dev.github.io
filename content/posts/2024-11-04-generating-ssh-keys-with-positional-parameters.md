@@ -21,7 +21,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: /images/logos/ssh-keygen.png
+    image: /images/logos/ssh-keygen.pn
     alt: "SSH Key Generation"
     caption: ''
     relative: false
