@@ -1,19 +1,38 @@
 ---
-title: Adjust JVM RAM Settings
+title: "Adjust JVM RAM Settings"
+date: 2023-07-18T11:00:00+10:00
+# weight: 1
+# aliases: ["/first"]
+categories: ["Reference"]
+series: ["Migrated from Jekyll"]
+tags: ["jvm","ram","server","settings"]
 author: danijeljw
-date: 2023-07-18 11:00:00 +1000
-categories: [Reference]
-tags: [jvm,ram,server,settings]
-series: ['Migrated from Jekyll']
-aliases: ['migrate-from-jekyll']
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "SQLTools information"
+disableHLJS: true # to disable highlightjs
+disableShare: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 cover:
-  image: /images/logos/jvm_logo.png
-  caption: 'JVM logo'
-ShowToc: true
-TocOpen: true
+    image: /images/logos/jvm_logo.png # image path/url
+    alt: "<alt text>" # alt text
+    caption: "JVM Logo" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/terminalbytes-dev/terminalbytes-dev.github.io/tree/main/content"
-    Text: 'Suggest Changes' # edit text
+    Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
