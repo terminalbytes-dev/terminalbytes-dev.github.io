@@ -1,4 +1,4 @@
-name: Auto Merge and Close PR
+name: Auto Build, PR and Merge
 
 on:
   push:
